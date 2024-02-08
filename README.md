@@ -1,0 +1,2 @@
+# showSmart
+for shopping
